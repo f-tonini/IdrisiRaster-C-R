@@ -7,6 +7,7 @@ and coefficient of variation on each pixel. The R code connects to the C languag
 ## Credits and Contacts
 
 Francesco Tonini: <ftonini84@gmail.com>
+
 Rogerio Bonifacio (World Food Program, Analysis and Trends Service, HQ): <rogerio.bonifacio@wfp.org>
 
 ## LICENSE
